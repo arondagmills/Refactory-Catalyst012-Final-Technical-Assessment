@@ -1,0 +1,17 @@
+form{
+    border: 1px solid rebeccapurple;
+    padding: 20px;
+    margin: 20px;
+}
+
+button{
+    margin-left: 34rem;
+}
+body{
+    color: rgb(110, 80, 115);
+}
+.h1{
+    background-color: rgb(62, 22, 77);
+    color: aliceblue;
+    padding: auto;
+}
